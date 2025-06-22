@@ -132,3 +132,18 @@ body{
 .footer-inner > .left p{
     font-weight:bold;
 }
+.rickroll{
+    width: 30%;
+    height: 50px;
+    margin-top: 20px;
+    background-color:green;
+    border: 5px lightgreen solid;
+    display: flex;
+    justify-content: center;
+}
+.rickroll > a{
+   margin-top: 10px;
+    text-decoration: none;
+    font-weight: bold;
+    
+}
